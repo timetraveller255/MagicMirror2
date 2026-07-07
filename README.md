@@ -43,4 +43,4 @@ MagicMirror² configuration
 <img src=https://github.com/razvanh255/MagicMirror2/blob/master/nudeart.png>
 </td></tr></table>
 
-Redesigned by Răzvan Cristea https://github.com/razvanh255 Creative Commons BY-NC-SA 4.0, Romania.
+Redesigned by Răzvan Cristea https://github.com/timetraveller255 Creative Commons BY-NC-SA 4.0, Romania.
