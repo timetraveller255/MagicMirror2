@@ -22,7 +22,7 @@ For the full documentation including **[installation instructions](https://docs.
 # Modified MagicMirror²
 
 MagicMirror² configuration
-<li>Raspberry Pi 3B plus iPad3
+<li>Raspberry Pi 3B (server/client) plus iPad3 (client only)
 <li>64GB SD card
 <li>32bit Bookworm OS with Wayland desktop
 <li>DHT22 sensor
