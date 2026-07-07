@@ -1,6 +1,6 @@
 # Display a calendar with multiple months (user configurable)
 
-<img src=https://github.com/razvanh255/MagicMirror/blob/master/modules/multimonth/monthly.png>.
+<img src=https://github.com/timetraveller255/MagicMirror/blob/master/modules/multimonth/monthly.png>.
 
 
 ## Using the module
